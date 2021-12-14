@@ -5,9 +5,11 @@
 - I strive to keep a positive attitude and approach problems with curiosity and an open mind.
 
 ## 📫  Get in Touch
-[Follow Me on LinkedIn](https://linkedin.com/in/megan-schertz)
+[LinkedIn](https://linkedin.com/in/megan-schertz)
 
-[Follow Me on Medium](https://meggs.medium.com/)
+[Medium](https://meggs.medium.com/)
+
+[Twitter](https://twitter.com/schertz_megan)
 
 ## :school:  Projects
 
