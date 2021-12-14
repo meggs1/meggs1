@@ -16,7 +16,7 @@
 ###### Tarot Reader [Heroku](https://tarot-card-reader.herokuapp.com) | [Frontend Repo](https://github.com/meggs1/tarot-frontend)
 This app the lest users draw 1, 3 or 5 tarot cards. Users can also learn about the full card meanings.
 
-###### A Question A Day [Heroku](https://a-question-a-day.herokuapp.com/todays-question) | [Repo](https://github.com/meggs1/question-a-day)
+###### A Question A Day [Heroku](https://a-question-a-day.herokuapp.com) | [Repo](https://github.com/meggs1/question-a-day)
 A journaling app the gives users a daily prompt and allows users to see eachother's answers.
 
 ###### Winescape [Demo](https://youtu.be/NMtqQohtbNg) | [Frontend Repo](https://github.com/meggs1/js-project-frontend)
