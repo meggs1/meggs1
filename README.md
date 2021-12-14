@@ -6,6 +6,7 @@
 
 ## 📫  Get in Touch
 [Follow Me on LinkedIn](https://linkedin.com/in/megan-schertz)
+
 [Follow Me on Medium](https://meggs.medium.com/)
 
 ## :school:  Projects
